@@ -4,6 +4,10 @@ Categories: Added, Removed, Changed, Fixed, Nonfunctional, Deprecated
 
 ## Unreleased
 
+### Nonfunctional
+
+- Modify stacks dependency plan resolver
+
 ## 2.5.0 (2021.05.01)
 
 ### Added
